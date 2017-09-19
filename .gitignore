@@ -1,0 +1,17 @@
+DS_Store
+node_modules
+all_loans.html
+all_books.html
+all_patrons.html
+book_detail.html
+checked_books.html
+checked_loans.html
+error.html
+home.html
+new_book.html
+new_loan.html
+new_patron.html
+overdue_books.html
+overdue_loans.html
+patron_detail.html
+return_book.html
